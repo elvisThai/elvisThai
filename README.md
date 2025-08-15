@@ -1,12 +1,14 @@
 <div align="center">
-<h1>Hi, I'm Elvis!</h1>
+  <h1>Hi, I'm Elvis!</h1>
   <a href="https://your-portfolio-link.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=about.me&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio" />
-  </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/622/622669.png" alt="Portfolio" height="25" />
+</a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/elvisthai/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" />
-  </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="25" />
+</a>
 </div>
+
 
 ###
 
