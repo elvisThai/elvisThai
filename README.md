@@ -6,9 +6,9 @@
   Feel free to check out my <a href="https://your-portfolio-link.com" target="_blank" rel="noreferrer">Portfolio</a> and connect with me on <a href="https://www.linkedin.com/in/elvisthai/" target="_blank" rel="noreferrer">LinkedIn</a>!
 </h4>
 
-<h3 align="left">🧠 Languages & Technologies</h3>
+<h2 align="left">🧠 Languages & Technologies</h2>
 
-<h4 align="left">Languages</h4>
+<h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<h4 align="left">Frameworks & Libraries</h4>
+<h3 align="left">Frameworks & Libraries</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React" />
@@ -68,7 +68,7 @@
   </a>
 </p>
 
-<h4 align="left">Tools & Platforms</h4>
+<h3 align="left">Tools & Platforms</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
@@ -90,7 +90,7 @@
   </a>
 </p>
 
-<h4 align="left">Databases</h4>
+<h3 align="left">Databases</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
