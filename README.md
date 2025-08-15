@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi, I'm Elvis! 😁</h1>
+<h1>Hi, I'm Elvis!</h1>
   <a href="https://your-portfolio-link.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=about.me&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio" />
   </a>
@@ -10,15 +10,13 @@
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
-
 <p align="left">
   I'm a Computer Science student at Western University passionate about full-stack development and AI.
 </p>
 
 <ul align="left">
-  <li>🔭 Interested in full-stack development, cloud platforms, and building scalable systems</li>
-  <li>🌱 Continuously learning about backend frameworks, CI/CD, containerization, and performance optimization</li>
+  <li>Interested in full-stack development, cloud platforms, and building scalable systems</li>
+  <li>Continuously learning about backend frameworks, CI/CD, containerization, and performance optimization</li>
 </ul>
 
 
