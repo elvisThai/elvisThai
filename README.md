@@ -1,28 +1,10 @@
-<div align="center">
-  <h1>Hi, I'm Elvis!</h1>
-   <a href="https://your-portfolio-link.com" target="_blank" rel="noreferrer">
-    <img src="assets/portfolio.gif" alt="Portfolio" height="50" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/elvisthai/" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="25" />
-</a>
-</div>
+<h1>Hi, I'm Elvis! 👋</h1>
 
-
-###
-
-<p align="left">
-  I'm a Computer Science student at Western University passionate about full-stack development and AI.
-</p>
-
-<ul align="left">
-  <li>Interested in full-stack development, cloud platforms, and building scalable systems</li>
-  <li>Continuously learning about backend frameworks, CI/CD, containerization, and performance optimization</li>
-</ul>
-
-
----
+<h4 align="left">
+  I'm a Computer Science student at Western University passionate about <b>full stack development</b>, <b>AI</b>, and <b>data</b>.  
+  Outside of school and coding, I enjoy bouldering indoors (sometimes outdoors..) and video games like Valorant (top 0.1% of players😎).  
+  Feel free to check out my <a href="https://your-portfolio-link.com" target="_blank" rel="noreferrer">Portfolio</a> and connect with me on <a href="https://www.linkedin.com/in/elvisthai/" target="_blank" rel="noreferrer">LinkedIn</a>!
+</h4>
 
 <h3 align="left">🧠 Languages & Technologies</h3>
 
@@ -33,9 +15,6 @@
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -77,9 +56,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" />
-  </a>
+
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow" />
   </a>
@@ -95,9 +72,6 @@
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" alt="Kubernetes" />
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
@@ -120,9 +94,6 @@
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" />
