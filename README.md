@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi, I'm Elvis!</h1>
-  <a href="https://your-portfolio-link.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/622/622669.png" alt="Portfolio" height="25" />
-</a>
+   <a href="https://your-portfolio-link.com" target="_blank" rel="noreferrer">
+    <img src="assets/portfolio.gif" alt="Portfolio" height="50" />
+  </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/elvisthai/" target="_blank" rel="noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="25" />
