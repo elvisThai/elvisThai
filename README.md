@@ -3,7 +3,7 @@
 <h4 align="left">
   I'm a Computer Science student at Western University passionate about <b>full stack development</b>, <b>AI</b>, and <b>data</b>.  
   Outside of school and coding, I enjoy bouldering indoors (sometimes outdoors..) and video games like Valorant (top 0.1% of players😎).  
-  Feel free to check out my <a href="" target="_blank" rel="noreferrer">Portfolio (coming soon)</a> and connect with me on <a href="https://www.linkedin.com/in/elvisthai/" target="_blank" rel="noreferrer">LinkedIn</a>!
+  Feel free to check out my <a href="https://www.linkedin.com/in/elvisthai/" target="_blank" rel="noreferrer">Portfolio (coming soon)</a> and connect with me on <a href="https://www.linkedin.com/in/elvisthai/" target="_blank" rel="noreferrer">LinkedIn</a>!
 </h4>
 
 <h2 align="left">🧠 Languages & Technologies</h2>
